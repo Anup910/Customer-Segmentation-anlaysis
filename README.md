@@ -1,6 +1,6 @@
-Customer Segmentation Using RFM Analysis for Enhanced Engagement
+# Customer Segmentation Using RFM Analysis for Enhanced Engagement
 
-Objective:
+# Objective:
 The goal of this analysis is to segment customers based on their purchasing behavior using RFM (Recency, Frequency, and Monetary) analysis. By understanding customer engagement patterns, the e-commerce platform can optimize marketing strategies, improve customer retention, and drive revenue growth.
 
 One effective approach to achieving this is RFM analysis, which evaluates customers based on three key factors:
@@ -13,7 +13,7 @@ Monetary Value (M): The total amount spent by the customer
 
 An e-commerce platform has provided a dataset containing transaction details such as customer ID, purchase date, transaction amount, product details , order ID, and customer location. The goal is to leverage RFM analysis to categorize customers into distinct segments based on their purchasing behavior.
 
-Key Areas of Analysis:
+# Key Areas of Analysis:
 Recency Analysis: Identifying how recently a customer has made a purchase to assess their engagement level.
 
 Frequency Analysis: Determining how often a customer makes purchases to classify them as loyal, occasional, or inactive buyers.
